@@ -1,0 +1,25 @@
+.container{
+  margin-top: 50px;
+}
+
+.list-group{
+  font-size: 200%;
+}
+
+.list-group li{
+  margin-bottom: 10px;
+}
+
+.song-length{
+  float: right;
+  margin-top: -60px;
+}
+
+#difficulty{
+	width: 300px;
+	height: 50px;
+}
+
+#difficulty-selector{
+  float: right;
+}
